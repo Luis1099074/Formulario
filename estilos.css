@@ -21,6 +21,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    font-size: 25px;
 }
 
 .form input{
@@ -37,5 +38,13 @@ body{
     background: #a1e9a1;
     cursor: pointer;
     font-size: 20px;
+}
+
+.checkbox{
+
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+
 }
 
