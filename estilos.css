@@ -48,6 +48,7 @@ body{
 
 }
 .footer{
+
     width: 100%;
     max-width: 600px;
     margin: 0 auto;
@@ -55,4 +56,5 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-decoration: none;
 }
